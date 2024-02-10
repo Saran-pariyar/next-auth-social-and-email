@@ -1,3 +1,4 @@
 1. Installed packages:
 bcrypt, mongoose, next-auth
 
+You can find url to connect by going to overview->connect (the url is below. You can connect if you have password)
